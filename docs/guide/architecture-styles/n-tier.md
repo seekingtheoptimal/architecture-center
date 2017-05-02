@@ -2,7 +2,7 @@
 
 An N-tier architecture divides an application into **logical layers** and **physical tiers**. 
 
-![](./images/n-tier-logical.png)
+![](./images/n-tier-logical.svg)
 
 Layers are a way to separate responsibilities and manage dependencies. Each layer has a specific responsibility. A higher layer can use services in a lower layer, but not the other way around. 
 
