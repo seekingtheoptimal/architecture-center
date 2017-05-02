@@ -15,8 +15,8 @@ ms.author: pnp
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardImageOuter">
-                        <div class="cardImage bgdAccent1">
-                            <img src="_images/reference-architectures.svg" alt="" />
+                        <div class="cardImage">
+                            <img src="_images/reference-architectures.svg" alt="" style="height:140px;"/>
                         </div>
                     </div>
                 <div class="cardText">
