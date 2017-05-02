@@ -16,7 +16,7 @@ ms.author: pnp
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage">
-                                <img src="_images/a3g-logo.svg" alt="" style="height:140px;"/>
+                                <img src="_images/a3g-logo.svg" alt="" style="height: 140px;"/>
                             </div>
                         </div>
                     <div class="cardText">
@@ -35,7 +35,7 @@ ms.author: pnp
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="_images/reference-architectures.svg" alt="" style="height:140px;"/>
+                            <img src="_images/reference-architectures.svg" alt="" style="height: 140px;"/>
                         </div>
                     </div>
                 <div class="cardText">
@@ -50,11 +50,11 @@ ms.author: pnp
 <li>
     <a href="/azure/architecture/patterns/">
     <div class="cardSize">
-        <div class="cardPadding">
+        <div class="cardPadding"> 
             <div class="card">
                 <div class="cardImageOuter">
-                    <div class="cardImage bgdAccent1">
-                        <img src="_images/cloud-design-patterns.svg" alt=""  style="height:140px;"/>
+                    <div class="cardImage">
+                        <img src="_images/cloud-design-patterns.svg" alt=""  style="height: 140px;"/>
                     </div>
                 </div>
                 <div class="cardText">
