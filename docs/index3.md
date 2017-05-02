@@ -73,7 +73,7 @@ ms.author: pnp
                     <div class="card">
                         <div class="cardImageOuter">
                             <div class="cardImage">
-                                <img src="_images/best-practices.svg" alt="" style="height: 140px;"/>
+                                <img src="_images/best-practices.svg" alt="" style="height: 105px;"/>
                             </div>
                         </div>
                     <div class="cardText">
