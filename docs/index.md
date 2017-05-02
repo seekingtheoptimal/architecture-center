@@ -9,6 +9,25 @@ ms.author: pnp
 # Azure Architecture Center
 
 <ul class="panelContent cardsC">
+        <li>
+            <a href="/azure/architecture/reference-architectures">
+            <div class="cardSize">
+                <div class="cardPadding">
+                    <div class="card">
+                        <div class="cardImageOuter">
+                            <div class="cardImage">
+                                <img src="_images/a3g-logo.svg" alt="" style="height:140px;"/>
+                            </div>
+                        </div>
+                    <div class="cardText">
+                        <h3>Azure Application Architecture Guide</h3>
+                        <p>Lorem ipsum dolor sit amet, et usu omnes libris delicata, et duo facete iriure.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </a>
+    </li>
     <li>
         <a href="/azure/architecture/reference-architectures">
         <div class="cardSize">
@@ -35,31 +54,12 @@ ms.author: pnp
             <div class="card">
                 <div class="cardImageOuter">
                     <div class="cardImage bgdAccent1">
-                        <img src="_images/cloud-design-patterns.svg" alt="" />
+                        <img src="_images/cloud-design-patterns.svg" alt=""  style="height:140px;"/>
                     </div>
                 </div>
                 <div class="cardText">
                     <h3>Cloud Design Patterns</h3>
                     <p>Design patterns for developers and solution architects. Each pattern describes a problem, a pattern that addresses the problem, and an example based on Azure.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    </a>
-</li>
-<li>
-    <a href="/azure/architecture/best-practices/">
-    <div class="cardSize">
-        <div class="cardPadding">
-            <div class="card">
-                <div class="cardImageOuter">
-                    <div class="cardImage bgdAccent1">
-                        <img src="_images/best-practices.svg" alt="" />
-                    </div>
-                </div>
-                <div class="cardText">
-                    <h3>Best Practices for Cloud Applications</h3>
-                    <p>Best practices for cloud applications, covering aspects such as auto-scaling, caching, data partitioning, API design, and others.</p>
                 </div>
             </div>
         </div>
